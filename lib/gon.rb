@@ -9,7 +9,6 @@ require 'gon/helpers'
 require 'gon/escaper'
 require 'gon/rabl'
 require 'gon/jbuilder'
-require 'oj'
 
 class Gon
   class << self
